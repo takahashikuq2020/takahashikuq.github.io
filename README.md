@@ -1,0 +1,1 @@
+# takahashikuq2020.github.io
