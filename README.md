@@ -16,8 +16,8 @@
 
 ### リンク集
 ```markdown
-- [基本情報処理技術者試験](https://www.jitec.ipa.go.jp/1_08gaiyou/_index_gaiyou.html)
-- [応用情報処理技術者試験](https://www.jitec.ipa.go.jp/1_11seido/ap.html)
+- [基本情報処理技術者試験](https://www.jitec.ipa.go.jp/1_08gaiyou/_index_gaiyou.html).
+- [応用情報処理技術者試験](https://www.jitec.ipa.go.jp/1_11seido/ap.html).
 
 - [mailto:](mailto:takahashikuq2020@gmail.com)
 ```
