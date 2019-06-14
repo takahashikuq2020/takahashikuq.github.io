@@ -18,4 +18,4 @@
 [Link](url) and ![Image](src)
 ```
 
-[Image](rWEES3NS_400x400.jpg)
+![Image](rWEES3NS_400x400.jpg)
