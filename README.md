@@ -4,7 +4,7 @@
 
 
 ### 担当した業務
-
+- 
 
 
 ### 得意な業務内容
@@ -12,15 +12,17 @@
 2.
 3.
 
+### 就職活動の状況について
 
 
 ### リンク集
+[基本情報処理技術者試験](https://www.jitec.ipa.go.jp/1_08gaiyou/_index_gaiyou.html).
+
 ```markdown
 - [基本情報処理技術者試験](https://www.jitec.ipa.go.jp/1_08gaiyou/_index_gaiyou.html).
 - [応用情報処理技術者試験](https://www.jitec.ipa.go.jp/1_11seido/ap.html).
 
 - [mailto:](mailto:takahashikuq2020@gmail.com)
 ```
-
 
 ![(image-convert_cman_jp_20190614215900..jpg)]
