@@ -9,7 +9,7 @@
 ```markdown
 
 - 基本情報処理技術者試験
-[Link](https://www.jitec.ipa.go.jp/1_08gaiyou/_index_gaiyou.html)
+[Link]https://www.jitec.ipa.go.jp/1_08gaiyou/_index_gaiyou.html
 - 応用情報処理技術者試験
 [Link]https://www.jitec.ipa.go.jp/1_11seido/ap.html
 
@@ -22,4 +22,4 @@
 [Link](url) and ![Image](src)
 ```
 
-![Image](rWEES3NS_400x400.jpg)
+![Image](image-convert_cman_jp_20190614215900..jpg)
