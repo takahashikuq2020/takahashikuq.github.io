@@ -47,16 +47,14 @@
 　未経験の業務も、自分の知識を総動員して完遂させてきました。<br>
 　私が重視してきたこととしましては、常にQCDを意識し、PDCAを欠かさないこと、<br>
 　<b>「愚直にやりきる」</b>ことを意識しています。<br>
-  
-　浅くても広い知識を増やすためにも、普段から自己研鑽を欠かしません。<br>
-　　・[ファイナンシャルプランニング技能士3級](https://www.kinzai.or.jp/ginou/fp/faq)<br>
-　　・[日商簿記検定3級](https://www.kentei.ne.jp/bookkeeping/class3)<br>
-　など会計的な資格も取得しています。<br>
-  
+    
 　これらの得意なことや今後どの業界でも必須になるであろう情報系の知識を活かし、<br>
 　**全般的で幅広い業務に挑戦し、仕事を通して自身も成長したい**と考えています。<br>
 
 ### リンク
 [基本情報処理技術者試験](https://www.jitec.ipa.go.jp/1_08gaiyou/_index_gaiyou.html)<br>
 [応用情報処理技術者試験](https://www.jitec.ipa.go.jp/1_11seido/ap.html)<br>
+[ファイナンシャルプランニング技能士3級](https://www.kinzai.or.jp/ginou/fp/faq)<br>
+[日商簿記検定3級](https://www.kentei.ne.jp/bookkeeping/class3)<br>
+
 [mailto:](mailto:takahashikuq2020@gmail.com)<br>
