@@ -48,12 +48,12 @@
   
 　知識を増やすためにも、普段から自己研鑽を欠かしません。<br>
 　記載したもの以外にも、<br>
-    ・[ファイナンシャルプランニング技能士3級](https://www.kinzai.or.jp/ginou/fp/faq)<br>
-    ・[日商簿記検定3級](https://www.kentei.ne.jp/bookkeeping/class3)<br>
-  など会計的な資格も取得しています。<br>
+　　・[ファイナンシャルプランニング技能士3級](https://www.kinzai.or.jp/ginou/fp/faq)<br>
+　　・[日商簿記検定3級](https://www.kentei.ne.jp/bookkeeping/class3)<br>
+　など会計的な資格も取得しています。<br>
   
-  これらの自信の得意なことや今後どの業界でも必須になるであろう情報系の知識を活かし、<br>
-  全般的で幅広い業務に挑戦し、仕事を通して自身も成長したいと考えています。<br>
+　これらの自信の得意なことや今後どの業界でも必須になるであろう情報系の知識を活かし、<br>
+　全般的で幅広い業務に挑戦し、仕事を通して自身も成長したいと考えています。<br>
 
 ### リンク
 [基本情報処理技術者試験](https://www.jitec.ipa.go.jp/1_08gaiyou/_index_gaiyou.html)<br>
